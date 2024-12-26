@@ -1,8 +1,8 @@
 - 👋 Hi, I am @Vladislav-Levovitch-Polytech-Sorbonne
 - 👀 Currently I am a student at Polytech Sorbonne
       the engineering school of Sorbonne University
-- 🌱 I am currently learning electronics and computers in my training
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I am currently learning electronics and computer science in my training
+- 💞️ I’m looking to collaborate on AI-driven IoT solutions for managing autonomous fleets
 - 📫 Reach me : vladislav.balayan@etu.sorbonne-universite.fr
 
 <!---
